@@ -59,5 +59,5 @@ Co-first Author
 </div>
 </div>
 
-- ``ACM MM`` [SiFDetectCracker: An Adversarial Attack Against Fake Voice Detection Based on Speaker-Irrelative Features](https://dl.acm.org/doi/abs/10.1145/3581783.3613841), Xuan Hai, Xin Liu, **Yuan Tan**, Qingguo Zhou
-- ``Future Generation Computer Systems`` [Novel supply chain vulnerability detection based on heterogeneous-graph-driven hash similarity in IoT](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23002194), Guodong Ye, Xin Liu, Siqi Fan, **Yuan Tan**, Qingguo Zhou, Rui Zhou, Xiaokang Zhou
+- {:.inline-badge}``ACM MM`` [SiFDetectCracker: An Adversarial Attack Against Fake Voice Detection Based on Speaker-Irrelative Features](https://dl.acm.org/doi/abs/10.1145/3581783.3613841), Xuan Hai, Xin Liu, **Yuan Tan**, Qingguo Zhou
+- {:.inline-badge}``Future Generation Computer Systems`` [Novel supply chain vulnerability detection based on heterogeneous-graph-driven hash similarity in IoT](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23002194), Guodong Ye, Xin Liu, Siqi Fan, **Yuan Tan**, Qingguo Zhou, Rui Zhou, Xiaokang Zhou
