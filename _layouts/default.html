@@ -21,7 +21,14 @@ layout: compress
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
-            {{ content }}
+            {% if page.url contains "blog" %}
+              <div class="sidebar__right sticky">
+              {% include toc.html html=content %}
+              </div>
+            {% endif %}
+            <div class="contents">
+              {{ content }}
+            </div>
           </section>
         </div>
       </article>
