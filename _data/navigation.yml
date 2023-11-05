@@ -15,6 +15,9 @@ main:
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
+  - title: "Blog"
+    url: "/#-blog"
+
   - title: "Educations"
     url: "/#-educations"
 

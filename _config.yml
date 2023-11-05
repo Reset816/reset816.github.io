@@ -126,7 +126,13 @@ defaults:
     values:
       layout: default
       author_profile: true
-
+  - scope:
+      path: ""
+      type: cn
+    values:
+      layout: default
+      author_profile: true
+      toc: true
 
 # Sass/SCSS
 sass:
@@ -161,3 +167,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Collections
+collections:
+  cn:
+    output: true
+    sort_by: part
+    permalink: /blog/:collection/:path/
