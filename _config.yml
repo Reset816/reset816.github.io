@@ -133,6 +133,13 @@ defaults:
       layout: default
       author_profile: true
       toc: true
+  - scope:
+      path: ""
+      type: en
+    values:
+      layout: default
+      author_profile: true
+      toc: true
 
 # Sass/SCSS
 sass:
@@ -171,6 +178,10 @@ compress_html:
 # Collections
 collections:
   cn:
+    output: true
+    sort_by: part
+    permalink: /blog/:collection/:path/
+  en:
     output: true
     sort_by: part
     permalink: /blog/:collection/:path/
