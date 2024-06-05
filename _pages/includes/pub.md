@@ -18,20 +18,6 @@ Co-first Author
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/homepage/chia.png' width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A Novel Approach to Cloud Service Abuse and Low-Cost Blockchain Mining
-
-**Yuan Tan**, Xin Liu, Guodong Ye, Siqi Fan, Nan Li
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Proposed a new attack vector that allowed attackers to successfully win block rewards with extremely low cost. 
-- Abusing **PB-level** cloud storage with ease.
-- The study has been submitted to Black Hat Asia 2024 and is currently under review.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/homepage/acl2023.png' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
