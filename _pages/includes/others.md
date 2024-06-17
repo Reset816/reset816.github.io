@@ -5,4 +5,4 @@
 
 # 💻 Internships
 - *2023.07 - 2023.09*, [Tinylab](https://tinylab.org/), a community that has merged 300+ patches into the kernel.
-- *2023.10 - PRESENT*, [SOPHGO](https://www.sophon.ai/), known for its MILK-V series development board.
+- *2023.10 - 2023.04*, [SOPHGO](https://www.sophon.ai/), known for its MILK-V series RISC-V development board.
