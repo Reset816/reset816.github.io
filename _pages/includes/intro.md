@@ -2,7 +2,7 @@ I obtained a bachelor's degree in computer science from Lanzhou University in 20
 
 I ventured into the field of security halfway through. Moreover, I am also intrigued by system research, especially the kernel and related areas.
 
-The experience gained from my recent [Linux kernel trimming project](/#-projects) sparked my curiosity about Linux kernel.
+The experience gained from my recent Linux kernel trimming project sparked my curiosity about Linux kernel.
 
 My research interest includes kernel, cyber security, as well as performance analysis and tuning.
 
