@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Linux Security Summit</div><img src='images/homepage/dse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text anchor' markdown="1">
 
-[Safer Seccomp: Dead Syscalls Elimination](https://events.linuxfoundation.org/linux-security-summit-europe/program/schedule/)
+[Safer Seccomp: Dead Syscalls Elimination](https://sched.co/1ebVd)
 
 **Yuan Tan**, Zhangjin Wu, Xiao Liu
 
