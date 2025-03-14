@@ -31,13 +31,11 @@ part: 4
 
 下面是使用 `.pushsection` 的简单例子：
 
-```C
-// example.c
-
+```c
 void fun() {
-  asm(".pushsection .rodata.test,\"a\"\n\t"
-      ".string \"this_is_a_new_section\"\n\t"
-      ".popsection\n");
+     asm(".pushsection .rodata.test,\"a\"\n\t"
+     ".string \"this_is_a_new_section\"\n\t"
+     ".popsection\n");
 }
 
 int main() { fun(); }
