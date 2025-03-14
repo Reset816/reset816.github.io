@@ -11,19 +11,36 @@ div.highlighter-rouge, figure.highlight {
   background-color: $code-background-color;
   box-shadow: $box-shadow;
 
-  &:before {
-    position: absolute;
-    top: 0;
-    right: 0;
-    padding: 0.5em;
-    background-color: $lighter-gray;
-    content: "\f121";
-    font-family: "fontawesome" !important;
-    font-size: $type-size-6;
-    line-height: 1;
-    text-transform: none;
-    speak: none;
-  }
+ /* Copy button styling */
+ .copy-button {
+   position: absolute;
+   top: 0;
+   right: 0;
+   padding: 0.5em;
+   background-color: $lighter-gray;
+   border: none;
+   border-radius: 0 0 0 4px;
+   color: $dark-gray;
+   font-size: $type-size-6;
+   line-height: 1;
+   text-transform: none;
+   cursor: pointer;
+   transition: all 0.2s ease;
+   
+   &:hover {
+     background-color: darken($lighter-gray, 10%);
+   }
+   
+   &:before {
+     content: "\f0c5"; /* Copy icon from FontAwesome */
+     font-family: "fontawesome" !important;
+   }
+   
+   &.copied:before {
+     content: "\f00c"; /* Check icon from FontAwesome */
+     color: #2ecc71; /* Green color for success */
+   }
+ }
 
   .highlight {
     margin: 0;
