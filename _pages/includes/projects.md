@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RISC-V</div><img src='images/homepage/cpu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Design and Tape-out a RISC-V CPU](https://gitee.com/asyncsys/livp)
+[Design and Tape-out a RISC-V CPU](https://gitee.com/asyncsys/livp){:target="_blank"}
 
 Zecheng Liang, Zhe Sun, Yihua Lu, Ren Wei, **Yuan Tan**, Xun Li, Lingzhuang Zhang, Yang Yu
 
@@ -16,7 +16,7 @@ Zecheng Liang, Zhe Sun, Yihua Lu, Ren Wei, **Yuan Tan**, Xun Li, Lingzhuang Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mirror</div><img src='images/homepage/mirror.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Optimize and Maintain Open Source Mirror Site of Lanzhou University](https://mirror.lzu.edu.cn)
+[Optimize and Maintain Open Source Mirror Site of Lanzhou University](https://mirror.lzu.edu.cn){:target="_blank"}
 
 **Yuan Tan**
 
