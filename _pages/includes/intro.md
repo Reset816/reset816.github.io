@@ -8,4 +8,6 @@ I enjoy contributing to open-source projects. [Here](https://github.com/Reset816
 
 My research interest includes kernel, cyber security, as well as performance analysis and tuning.
 
+Actively seeking internship opportunities in various fields of Computer Science, open to positions in the U.S., China, or remote.
+
 <!-- <a href='https://scholar.google.com/citations?user=B-Fgh7gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
