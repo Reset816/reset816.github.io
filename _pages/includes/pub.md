@@ -12,9 +12,9 @@
 - Utilized compiler directives to establish reference relationships for all orphaned sections.
 - The excessive use of 'KEEP()' in the Linux kernel can be eliminated using the above method.
 - Made the elimination of unused system calls possible through the construction of references between segments.
-- Reduced the size of the kernel image by 7%.
+- Reduced the size of the kernel image by 13%.
 - Reduced the attack surface that prevents attackers from exploiting trimmed syscalls.
-- [The early version](https://lore.kernel.org/all/cover.1699025537.git.tanyuan@tinylab.org/){:target="_blank"} has received positive feedback from the maintainer.
+- [The early version](https://lore.kernel.org/all/30C972B6393DBAC5+cover.1760463245.git.tanyuan@tinylab.org/){:target="_blank"} has received positive feedback from the maintainer.
 </div>
 </div>
 
